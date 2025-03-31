@@ -1,0 +1,25 @@
+id,ip,hostname,device_type,manufacturer
+1,192.168.1.1,Gateway,Router/Gateway,Cisco
+2,192.168.1.2,Server-2,Server,Dell
+3,192.168.1.3,Server-3,Server,Dell
+4,192.168.1.4,Computer-4,Computer,Lenovo
+5,192.168.1.5,Computer-5,Computer,HP
+6,192.168.1.6,Computer-6,Computer,Lenovo
+7,192.168.1.7,Computer-7,Computer,Dell
+8,192.168.1.8,Computer-8,Computer,HP
+9,192.168.1.9,Computer-9,Computer,HP
+10,192.168.1.10,TV-10,Chromecast/Smart TV,Sony
+11,192.168.1.11,TV-11,Chromecast/Smart TV,Samsung
+12,192.168.1.12,TV-12,Chromecast/Smart TV,Sony
+13,192.168.1.13,Mobile-13,Mobile,Google
+14,192.168.1.14,Mobile-14,Mobile,Google
+15,192.168.1.15,Mobile-15,Mobile,Apple
+16,192.168.1.16,Mobile-16,Mobile,Samsung
+17,192.168.1.17,Mobile-17,Mobile,Apple
+18,192.168.1.18,IoT-18,IoT,Ring
+19,192.168.1.19,IoT-19,IoT,Ecobee
+20,192.168.1.20,IoT-20,IoT,Ring
+21,192.168.1.21,IoT-21,IoT,Ring
+22,192.168.1.22,IoT-22,IoT,Ring
+23,192.168.1.23,IoT-23,IoT,Ecobee
+24,192.168.1.24,IoT-24,IoT,Nest
