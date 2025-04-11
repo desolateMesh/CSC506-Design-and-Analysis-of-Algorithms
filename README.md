@@ -10,8 +10,10 @@ This project focuses on simulating network traffic and optimizing bandwidth allo
 - **Optimize network flow:** Apply the Edmonds-Karp algorithm to maximize network bandwidth efficiency and allocation fairness.
 - **Analyze algorithm performance:** Measure and report algorithm complexity through empirical testing across networks of varying sizes.
 - **Provide comprehensive reporting:** Generate detailed reports summarizing network performance metrics, optimization results, and algorithm complexity analyses.
+  
+---
 
-### Project Structure
+## Project Structure
 
 - **Network Flow Simulator (`network_flow_simulator.py`):**
   - Core simulation engine for network traffic and flow optimization.
@@ -27,8 +29,10 @@ This project focuses on simulating network traffic and optimizing bandwidth allo
 - **Documentation:**
   - **Algorithm Flow:** Visual representation of the Edmonds-Karp algorithm logic.
   - **Simulation Flowchart:** Step-by-step workflow illustrating the overall process from network discovery to performance analysis.
+  - 
+---
 
-### Key Features
+## Key Features
 
 #### Device Discovery and Traffic Simulation
 - **ARP-based discovery simulation** generates realistic network devices categorized into servers, computers, IoT devices, and more.
@@ -47,6 +51,11 @@ This project focuses on simulating network traffic and optimizing bandwidth allo
 #### Visualization and Reporting
 - Generates clear network topology visualizations before and after optimization.
 - Comprehensive Markdown-formatted reports summarizing network performance, device statistics, and optimization outcomes.
+
+### Skill Acquired: Network Flow Optimization and Algorithm Analysis
+- Applied the Edmonds-Karp algorithm to simulate and optimize bandwidth in dynamic network environments, demonstrating proficiency in graph theory, BFS-based max-flow - --- - calculation, and algorithmic complexity analysis. Developed a full-stack Python simulation framework with traffic modeling, SQLite data persistence, visual reporting, and - CLI-based automation. Gained hands-on experience in translating theoretical algorithms into practical network optimization tools.
+
+--- 
 
 ### Running the Simulation
 
