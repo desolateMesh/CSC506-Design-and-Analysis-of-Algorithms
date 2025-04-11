@@ -13,6 +13,15 @@ This project focuses on simulating network traffic and optimizing bandwidth allo
   
 ---
 
+### Skill Acquired: Network Flow Optimization and Algorithm Analysis
+- Applied the Edmonds-Karp algorithm to simulate and optimize bandwidth in dynamic network environments, demonstrating proficiency in graph theory, BFS-based max-flow
+  calculation, and algorithmic complexity analysis.
+- Developed a full-stack Python simulation framework with traffic modeling, SQLite data persistence, visual reporting, and CLI-based automation.
+- Gained hands-on experience in translating theoretical algorithms into practical network optimization tools.
+
+--- 
+
+
 ## Project Structure
 
 - **Network Flow Simulator (`network_flow_simulator.py`):**
@@ -32,7 +41,7 @@ This project focuses on simulating network traffic and optimizing bandwidth allo
 
 ---
 
-## Key Features
+### Key Features
 
 #### Device Discovery and Traffic Simulation
 - **ARP-based discovery simulation** generates realistic network devices categorized into servers, computers, IoT devices, and more.
@@ -53,14 +62,6 @@ This project focuses on simulating network traffic and optimizing bandwidth allo
 - Comprehensive Markdown-formatted reports summarizing network performance, device statistics, and optimization outcomes.
 
 ---
-
-### Skill Acquired: Network Flow Optimization and Algorithm Analysis
-- Applied the Edmonds-Karp algorithm to simulate and optimize bandwidth in dynamic network environments, demonstrating proficiency in graph theory, BFS-based max-flow
-  calculation, and algorithmic complexity analysis.
-- Developed a full-stack Python simulation framework with traffic modeling, SQLite data persistence, visual reporting, and CLI-based automation.
-- Gained hands-on experience in translating theoretical algorithms into practical network optimization tools.
-
---- 
 
 ### Running the Simulation
 
