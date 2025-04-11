@@ -56,8 +56,9 @@ This project focuses on simulating network traffic and optimizing bandwidth allo
 
 ### Skill Acquired: Network Flow Optimization and Algorithm Analysis
 - Applied the Edmonds-Karp algorithm to simulate and optimize bandwidth in dynamic network environments, demonstrating proficiency in graph theory, BFS-based max-flow
-- *calculation, and algorithmic complexity analysis. Developed a full-stack Python simulation framework with traffic modeling, SQLite data persistence, visual reporting, and
-- *CLI-based automation. Gained hands-on experience in translating theoretical algorithms into practical network optimization tools.
+  calculation, and algorithmic complexity analysis.
+- Developed a full-stack Python simulation framework with traffic modeling, SQLite data persistence, visual reporting, and CLI-based automation.
+- Gained hands-on experience in translating theoretical algorithms into practical network optimization tools.
 
 --- 
 
